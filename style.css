@@ -1,0 +1,25 @@
+.d-flex{
+    display: flex;
+}
+.m-auto{
+    margin: auto;
+}
+.c-header{
+    color: rgba(117, 117, 117, 1);
+}
+.header-g{
+    margin-right: 5%;
+}
+.header-g-t{
+    margin-top: 33px;
+}
+.height{
+    height: 20;
+}
+body{
+    margin-right: 0;
+    margin-left: 0;
+}
+.header-g-l{
+    margin-left: 5%;
+}
