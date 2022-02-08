@@ -39,7 +39,11 @@ body{
 .fz{
  font-size: 18px;
 }
-.continer{
-  width: 50%;
-  border: #000 solid 1px;
+.container{
+    width: 50%;
+  border: #fff solid 11px;
+}
+.d-flex-c{
+    display: flex;
+    flex-direction: column;
 }
