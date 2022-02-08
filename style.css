@@ -18,8 +18,21 @@
 }
 body{
     margin-right: 0;
-    margin-left: 0;
 }
 .header-g-l{
     margin-left: 5%;
+}
+.ge{
+    font-size: 32px;
+    font-weight: 750;
+}
+.t-center{
+    text-align: center;
+}
+.pic{
+    border-radius: 50%;
+    width: 25px;
+}
+.p-center{
+    align-items: center;
 }
