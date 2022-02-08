@@ -36,3 +36,10 @@ body{
 .p-center{
     align-items: center;
 }
+.fz{
+ font-size: 18px;
+}
+.continer{
+  width: 50%;
+  border: #000 solid 1px;
+}
