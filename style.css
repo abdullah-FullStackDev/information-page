@@ -17,7 +17,7 @@
     height: 20;
 }
 body{
-    margin-right: 0;
+    margin: 0;
 }
 .header-g-l{
     margin-left: 5%;
@@ -41,7 +41,7 @@ body{
 }
 .container{
     width: 50%;
-  border: #fff solid 11px;
+  border: green solid 1px;
 }
 .d-flex-c{
     display: flex;
@@ -50,3 +50,21 @@ body{
 .fz-2{
     font-size: 25px;
 }
+#s-image{
+    border-radius: 50%;
+   height: 40px;
+  }
+  footer{
+      background-color: #271f1f57;
+      text-align: center;
+      margin-bottom: 0;
+  }
+  .g-p-m{
+      margin-top: 1%;
+  }
+  .c-o-p{
+   color: rgba(39, 31, 31, 0.342);
+  }
+  .fz-3{
+      font-size: 36px;
+  }
